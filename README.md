@@ -1,6 +1,9 @@
 # **DOS-E Emulator**
 A lightweight Python-based **simulated DOS environment**
 
+## Vibecode alert
+the dos.py file is **completly ai** written
+
 ## ⭐ Overview
 DOS-E is **not** a real DOS emulator. Instead, it **simulates** classic DOS behavior using Python while keeping everything inside a folder called `VIRTUAL_DRIVE`. 
 
